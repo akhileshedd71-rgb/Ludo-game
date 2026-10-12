@@ -1,0 +1,10 @@
+.godot/
+build/*
+!build/.gitkeep
+!build/.gdignore
+.DS_Store
+*.keystore
+*.jks
+.env
+__pycache__/
+*.pyc
